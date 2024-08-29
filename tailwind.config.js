@@ -92,8 +92,8 @@ export default {
       Inter:['Inter', 'sans-serif']      // Add more custom font families as needed
     },
   },
-  plugins: [
-    require('tailwind-scrollbar'),
-  ],
-}}
+},
+plugins: [
+  require('tailwind-scrollbar'),
+]}
 
